@@ -27,7 +27,7 @@ Camada responsável por iniciar a aplicação via terminal.
 A automação do processamento de notas fiscais em PDF reduziu o tempo de execução da atividade em aproximadamente 3 horas, eliminando etapas manuais de leitura, validação e lançamento em planilha.
 
 ### Ganhos observados
-- Redução do tempo em cerca de 2 horas para a execução da demanda
+- Redução do tempo de processamento em cerca de 3 horas
 - Menor esforço operacional manual
 - Redução de risco de erro humano no preenchimento da planilha
 - Maior padronização no tratamento das notas fiscais

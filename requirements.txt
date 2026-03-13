@@ -1,0 +1,4 @@
+#leitura dos PDFs
+pdfplumber
+#leitura e escrita no Excel
+openpyxl
